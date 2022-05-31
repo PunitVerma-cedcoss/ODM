@@ -1,0 +1,16 @@
+{
+    "name": "punitverma-cedcoss/odm",
+    "description": "cool desc",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "PunitvermaCedcoss\\Odm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "punit"
+        }
+    ],
+    "require": {}
+}
